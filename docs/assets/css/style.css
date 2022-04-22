@@ -60,6 +60,11 @@ nav {
 	background-color: var(--primary-color);
 }
 
+nav.fixed {
+	position: fixed;
+	width: 100%;
+}
+
 .navbar-nav a{
 	font-size: 1.2rem;
 }
